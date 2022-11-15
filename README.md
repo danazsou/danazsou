@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dana. Nice to meet you! 
-- 🌱 I’m currently learning fullstack software development and have wrapped up front-end basics. 
+- 🌱 I’m currently learning fullstack software development. I have wrapped up front-end basics and am now acquiring skills in back-end development. 
 - 📫 Let's connect! You can reach me via email at: dana.sou@gmail.com.
 
 <!---
